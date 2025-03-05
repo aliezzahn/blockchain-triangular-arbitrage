@@ -13,6 +13,7 @@
   "dependencies": {
     "bun-plugin-tailwind": "^0.0.14",
     "ethers": "^6.13.5",
+    "lucide-react": "^0.477.0",
     "react": "^19",
     "react-dom": "^19",
     "react-select": "^5.10.1",
