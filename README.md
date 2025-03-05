@@ -19,7 +19,6 @@
   - [Features](#features)
   - [Usage](#usage)
   - [Troubleshooting](#troubleshooting)
-  - [License](#license)
 
 ---
 
@@ -105,13 +104,3 @@ The Triangular Arbitrage Monitor helps users identify and explore arbitrage oppo
 - **No Suggestions**: If no profitable trios appear, it may indicate temporary Uniswap pool issues or RPC errors.
 - **Persistent Errors**: If a suggested trio fails, market conditions may have shifted. Try refreshing via the menu.
 - **Outdated Data**: Cached trios reflect the market at calculation time. Use the menu to refresh if prices change significantly.
-
----
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-This README focuses on explaining how the app operates, ensuring you understand its mechanics without diving into setup or contribution details. Let me know if you'd like further clarification or adjustments!
